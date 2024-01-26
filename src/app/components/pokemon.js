@@ -68,4 +68,5 @@ function Pokedex(){
         </div>
 
     );
-}export default Pokedex
+}
+export default Pokedex;
