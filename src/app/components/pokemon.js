@@ -5,7 +5,7 @@ import style from './pokemon.module.css';
 function Pokedex(){
     
     const[pokemon,setPokemon]=useState("./vercel.svg");
-    const url="https://pokeapi.co/api/v2/pokemon/55";
+    const url="https://pokeapi.co/api/v2/pokemon/230";
     const[nombre,setNombre]=useState("");
     const[habilidades,setHabilidades]=useState("");
     const[statList,setStatsList]=useState("");
