@@ -1,0 +1,166 @@
+.contenedor{
+    width: 375px;
+    height: 835px;
+    margin-top: -75px;
+    margin-left:19px;
+    background-color: rgba(245, 247, 251, 1);
+    color:black;
+    align-items: center;
+    display:grid;
+}
+.abouttitulo{
+font-size: 14px;
+font-weight: 600;
+line-height: 21px;
+letter-spacing: 0em;
+margin-left: 15px;
+
+
+}
+.stats{
+    
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 21px;
+        letter-spacing: 0em;
+        
+        
+        
+}
+.titulo{
+width: 144px;
+height: 33px;
+margin-left: 20px;
+margin-top:24px;
+font-size: 22px;
+font-weight: 600;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.tipo{
+    margin-bottom: 10px;  
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.peso{
+    margin-bottom: 10px;   
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.barra{
+    width: 42.5px;
+margin-left: 15px;
+border: 2px solid rgba(38, 54, 124, 1);
+height: 2px;
+      }
+
+.altura{
+    margin-bottom: 10px;  
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.habilidades{
+    margin-bottom: 10px;  
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.statList{
+    
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.about div{
+    
+font-size: 12px;
+font-weight: 600;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+
+    
+    }
+.contenedor img{
+align-self: center;
+width: 325px;
+height: 325px;
+margin-left: 25px;}
+
+.nombre{
+color: rgba(38, 54, 124, 1);
+width: 121px;
+height: 48px;
+margin-left: 20px;
+font-size: 32px;
+font-weight: 600;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.number{
+    color: rgba(116, 128, 178, 1);
+    width: 39px;
+height: 21px;
+margin-left: 319px;
+font-size: 14px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.about{
+width: 44px;
+height: 21px;
+top: 435px;
+left: 24px;
+
+.about{
+width: 29px;
+height: 18px;
+margin-left: 24px;
+
+}
+
+
+.stats{
+    width: 37px;
+height: 21px;
+margin-left: 25px;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+}
+
+.contenedor h1{
+font-size: 14px;
+font-weight: 600;
+line-height: 21px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+}

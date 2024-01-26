@@ -3,10 +3,12 @@ const nextConfig = {
     images: {
         remotePatterns: [
             {
-                hostname: "https://pokeapi.co/api/v2/pokemon-form/230/",
+                hostname: 'raw.githubusercontent.com',
             }
         ],
     }
+
+
 };
 
 export default nextConfig;
