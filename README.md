@@ -1,4 +1,4 @@
-ID del Pokemon:  230
+
 # Examen Final
 ## Programación Web II
 
